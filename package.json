@@ -6,12 +6,17 @@
   "scripts": {
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkumayan/backend_for_json_server.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-alpha.21"
+    "json-server": "^0.17.1"
   }
 }
